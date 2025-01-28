@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20thousand%20lines%20of%20code-blue)
 
@@ -79,5 +79,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 28/01/2025 17:54:31 UTC
+ Last Updated on 28/01/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
