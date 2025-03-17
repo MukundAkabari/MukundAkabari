@@ -8,15 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 128 Bytes Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,18 +49,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     36 mins             ████████████████████████░   97.60 % 
-Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Java                     49 mins             █████████████████████████   98.23 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-IntelliJ IDEA            37 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OOP                      36 mins             ████████████████████████░   97.51 % 
-saleCampaign             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+OOP                      49 mins             █████████████████████████   98.17 % 
+saleCampaign             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +72,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 16/03/2025 18:42:06 UTC
+ Last Updated on 17/03/2025 18:43:08 UTC
 <!--END_SECTION:waka-->
