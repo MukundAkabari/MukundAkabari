@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 140 Bytes Used in GitHub's Storage 
+> 📦 141 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,5 +72,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 16/04/2025 18:45:52 UTC
+ Last Updated on 17/04/2025 18:44:51 UTC
 <!--END_SECTION:waka-->
