@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2020%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -20,6 +22,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌆 Daytime                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌃 Evening                25 commits          ████████████████░░░░░░░░░   64.10 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Friday                   17 commits          ███████████░░░░░░░░░░░░░░   43.59 % 
+Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -29,5 +70,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 02/05/2025 18:45:11 UTC
+ Last Updated on 03/05/2025 18:42:45 UTC
 <!--END_SECTION:waka-->
