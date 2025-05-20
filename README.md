@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 > 📦 157 Bytes Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> ☑️ Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
