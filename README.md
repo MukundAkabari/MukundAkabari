@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 165 Bytes Used in GitHub's Storage 
+> 📦 166 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +49,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     53 mins             █████████████████████████   100.00 % 
+Java                     29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            53 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Stack                    33 mins             ████████████████░░░░░░░░░   62.22 % 
-arry                     20 mins             █████████░░░░░░░░░░░░░░░░   37.78 % 
+arry                     29 mins             █████████████████████████   99.44 % 
+Stack                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +71,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 29/05/2025 18:47:28 UTC
+ Last Updated on 30/05/2025 18:46:44 UTC
 <!--END_SECTION:waka-->
