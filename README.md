@@ -8,13 +8,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 166 Bytes Used in GitHub's Storage 
+> 📦 167 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,8 +57,7 @@ Java                     29 mins             ███████████�
 IntelliJ IDEA            29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arry                     29 mins             █████████████████████████   99.44 % 
-Stack                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+arry                     29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  29 mins             █████████████████████████   100.00 % 
@@ -71,5 +72,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 01/06/2025 18:44:21 UTC
+ Last Updated on 05/06/2025 18:53:47 UTC
 <!--END_SECTION:waka-->
