@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 168 Bytes Used in GitHub's Storage 
+> 📦 169 Bytes Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -51,16 +51,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      22 mins             ██████████████████████░░░   86.91 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Java                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             ███████████████████████░░   93.51 % 
+IntelliJ IDEA            1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          11 mins             ███████████░░░░░░░░░░░░░░   42.67 % 
+xampp                    7 mins              ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Backend                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+mukund                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+arry                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -72,5 +79,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 09/06/2025 18:46:58 UTC
+ Last Updated on 10/06/2025 18:48:10 UTC
 <!--END_SECTION:waka-->
