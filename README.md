@@ -51,17 +51,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      38 mins             ████████████████████████░   97.99 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-xampp                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +72,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 17/06/2025 18:48:33 UTC
+ Last Updated on 18/06/2025 18:48:19 UTC
 <!--END_SECTION:waka-->
