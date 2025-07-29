@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 > 📦 185 Bytes Used in GitHub's Storage 
  > 
+> 🏆 49 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -49,21 +51,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         █████████████░░░░░░░░░░░░   51.91 % 
-HTML                     35 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-CSS                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-prectice                 2 hrs 5 mins        ████████████████████████░   94.89 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +72,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 28/07/2025 18:53:30 UTC
+ Last Updated on 29/07/2025 18:55:38 UTC
 <!--END_SECTION:waka-->
