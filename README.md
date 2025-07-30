@@ -8,15 +8,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 185 Bytes Used in GitHub's Storage 
- > 
-> 🏆 49 Contributions in the Year 2025
+> 📦 186 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,45 +20,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                10 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-🌃 Evening                25 commits          ██████████████░░░░░░░░░░░   55.56 % 
-🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Wednesday                9 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Friday                   17 commits          █████████░░░░░░░░░░░░░░░░   37.78 % 
-Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -72,5 +29,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 29/07/2025 18:55:38 UTC
+ Last Updated on 30/07/2025 18:53:16 UTC
 <!--END_SECTION:waka-->
