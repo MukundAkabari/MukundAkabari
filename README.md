@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 > 📦 194 Bytes Used in GitHub's Storage 
  > 
+> 🏆 49 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -70,5 +72,5 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 21/08/2025 18:45:54 UTC
+ Last Updated on 22/08/2025 18:46:15 UTC
 <!--END_SECTION:waka-->
