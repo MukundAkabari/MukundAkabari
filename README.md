@@ -8,11 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 718 Bytes Used in GitHub's Storage 
+> 📦 715 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,5 +75,5 @@ PHP                      1 repo              ████████░░░�
 
 
 
- Last Updated on 30/08/2025 18:42:10 UTC
+ Last Updated on 31/08/2025 18:42:40 UTC
 <!--END_SECTION:waka-->
