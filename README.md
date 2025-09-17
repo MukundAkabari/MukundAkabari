@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2038%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -30,5 +32,5 @@ PHP                      1 repo              ████████░░░�
 
 
 
- Last Updated on 16/09/2025 18:44:49 UTC
+ Last Updated on 17/09/2025 18:44:52 UTC
 <!--END_SECTION:waka-->
