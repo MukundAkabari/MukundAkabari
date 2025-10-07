@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 948 Bytes Used in GitHub's Storage 
+> 📦 949 Bytes Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -51,18 +51,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           2 hrs 35 mins       ██████████████████████░░░   88.39 % 
-PHP                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Blade Template           58 mins             █████████████████████░░░░   82.07 % 
+PHP                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MIM                      2 hrs 49 mins       ████████████████████████░   96.54 % 
-inventory_management_syst6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+MIM                      1 hr 5 mins         ███████████████████████░░   91.46 % 
+inventory_management_syst6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +76,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 06/10/2025 18:46:02 UTC
+ Last Updated on 07/10/2025 18:46:58 UTC
 <!--END_SECTION:waka-->
