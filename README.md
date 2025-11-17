@@ -8,11 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 961 Bytes Used in GitHub's Storage 
+> 📦 965 Bytes Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -22,6 +24,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+🌆 Daytime                19 commits          ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+🌃 Evening                49 commits          ████████████████░░░░░░░░░   62.82 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   15 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Tuesday                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Wednesday                15 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Friday                   21 commits          ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -33,5 +74,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 16/11/2025 18:43:50 UTC
+ Last Updated on 17/11/2025 18:48:33 UTC
 <!--END_SECTION:waka-->
