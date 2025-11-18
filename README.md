@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 965 Bytes Used in GitHub's Storage 
+> 📦 966 Bytes Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -51,16 +51,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           30 mins             ██████████████████████░░░   87.44 % 
+PHP                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MIM                      34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +75,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/11/2025 18:48:33 UTC
+ Last Updated on 18/11/2025 18:49:51 UTC
 <!--END_SECTION:waka-->
