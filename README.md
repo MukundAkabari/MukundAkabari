@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 972 Bytes Used in GitHub's Storage 
+> 📦 973 Bytes Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -51,17 +51,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           1 hr 35 mins        ███████████████████░░░░░░   74.61 % 
-PHP                      32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MIM                      2 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +74,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 27/11/2025 18:46:49 UTC
+ Last Updated on 28/11/2025 18:46:36 UTC
 <!--END_SECTION:waka-->
