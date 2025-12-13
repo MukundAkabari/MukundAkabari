@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sping booy ,Java  ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.0 kB Used in GitHub's Storage 
+> 📦 998 Bytes Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -51,16 +51,19 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           43 mins             █████████████████████████   100.00 % 
+Blade Template           2 hrs 11 mins       ███████████████████████░░   91.13 % 
+PHP                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MIM                      43 mins             █████████████████████████   100.00 % 
+MIM                      2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +77,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 12/12/2025 18:51:48 UTC
+ Last Updated on 13/12/2025 18:45:13 UTC
 <!--END_SECTION:waka-->
