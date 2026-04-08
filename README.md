@@ -49,18 +49,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           39 mins             ███████████████░░░░░░░░░░   61.47 % 
-PHP                      20 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MIM                      1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +72,5 @@ PHP                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 07/04/2026 19:35:11 UTC
+ Last Updated on 08/04/2026 19:44:32 UTC
 <!--END_SECTION:waka-->
